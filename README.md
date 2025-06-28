@@ -64,10 +64,6 @@ Used to upload code and perform serial communication with the Arduino Pro Mini. 
 - ✅ BMP280 (SPI)
 - ✅ SHT20 / SHT45 (I2C)
 - ✅ LDR (analog)
-- ✅ Reed Switch
-- ✅ Servo Motor
-- ✅ DHT11 + Dust Sensor (Air Quality)
-
 ---
 
 ## LoRa + LoRaWAN Integration

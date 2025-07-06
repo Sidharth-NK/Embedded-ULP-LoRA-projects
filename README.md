@@ -1,7 +1,7 @@
 # 🌐 Ultra Low Power LoRa (ULP LoRa) Projects
 
 This repository contains a collection of embedded systems projects developed using a custom **ULP LoRa board**, which is a modified **Arduino Pro Mini** paired with the **RFM95W LoRa module** for ultra-low power, long-range wireless communication.
-
+Link : https://icfoss.in/project-details/52
 > ⚙️ Focus: Minimal power usage, real-world sensor interfacing, wireless data transmission, and cloud-based visualization via ChirpStack, InfluxDB, and Grafana.
 
 ---
